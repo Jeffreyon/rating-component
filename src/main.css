@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Overpass", sans-serif;
+}
+
+.selected {
+    @apply bg-orange-500;
+}
+
+.selected > span {
+    @apply text-white;
+}
+
+#root {
+    background-color: rgb(0, 2, 15);
+}

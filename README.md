@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [View on Github](https://github.com/Jeffreyon/rating-component)
--   Live Site URL: [Deployed on Netlify](https://637bfc69548fc207aea9537f--resplendent-baklava-edaffc.netlify.app/)
+-   Live Site URL: [Deployed on Netlify](https://637cee42731dbc3d0143fb4e--resplendent-baklava-edaffc.netlify.app/)
 
 ## My process
 
